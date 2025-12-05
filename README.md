@@ -41,7 +41,6 @@ This repository provides the high-level architecture and structure. If you need 
 
 👉 **Get the Source Code Package:** [Link](https://pokhts.gumroad.com/l/python-csv-dashboard)
 
-*(This tool is included in the **Ultimate Senior Engineer Toolkit**, now priced at only $100.)*
 
 ---
 
