@@ -4,7 +4,7 @@
 [![pandas](https://img.shields.io/badge/pandas-1.5+-150458.svg)](https://pandas.pydata.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.6+-11557c.svg)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-MIT--like-success.svg)](#-license)
-[![Free](https://img.shields.io/badge/Price-FREE-50e69a.svg)](https://pokhts.gumroad.com)
+[![Free](https://img.shields.io/badge/Price-FREE-50e69a.svg)](https://philyeh.gumroad.com)
 
 > **Drop in any CSV. Pick a column. See the trend.** A free, lightweight
 > Python plotter for timeseries data — built for engineers who are tired
@@ -157,12 +157,12 @@ Toolkit handles:
 
 | Tool | What it does | Price |
 |---|---|---:|
-| 🚛 **[J1939 Sniffer Pro](https://pokhts.gumroad.com)** | Heavy-duty CAN bus → CSV with auto-decoded units | $59 |
-| ⚙️ **[Modbus Logger Pro](https://pokhts.gumroad.com)** | RTU + TCP polling → CSV with smart register decoding | $49 |
-| 📡 **[MQTT Logger Pro](https://pokhts.gumroad.com)** | Subscribe + auto-JSON flatten → CSV ready for pandas | $39 |
-| 🏭 **[EtherNet/IP Study Kit](https://pokhts.gumroad.com)** | Learn CIP byte-by-byte (Allen-Bradley etc.) | $29 |
-| 🔒 **[Private ChatGPT Stack](https://pokhts.gumroad.com)** | Self-hosted RAG with Llama 3 + Docker | $59 |
-| 📦 **[Industrial Python Toolkit Bundle](https://pokhts.gumroad.com)** | All 4 industrial tools (save $47) | **$129** |
+| 🚛 **[J1939 Sniffer Pro](https://philyeh.gumroad.com)** | Heavy-duty CAN bus → CSV with auto-decoded units | $59 |
+| ⚙️ **[Modbus Logger Pro](https://philyeh.gumroad.com)** | RTU + TCP polling → CSV with smart register decoding | $49 |
+| 📡 **[MQTT Logger Pro](https://philyeh.gumroad.com)** | Subscribe + auto-JSON flatten → CSV ready for pandas | $39 |
+| 🏭 **[EtherNet/IP Study Kit](https://philyeh.gumroad.com)** | Learn CIP byte-by-byte (Allen-Bradley etc.) | $29 |
+| 🔒 **[Private ChatGPT Stack](https://philyeh.gumroad.com)** | Self-hosted RAG with Llama 3 + Docker | $59 |
+| 📦 **[Industrial Python Toolkit Bundle](https://philyeh.gumroad.com)** | All 4 industrial tools (save $47) | **$129** |
 
 All five paid tools share the same UI/UX as this dashboard, so once
 you're comfortable here, the others feel familiar in seconds.
@@ -186,7 +186,7 @@ Two reasons:
 You can also grab this on Gumroad with the **"pay what you want"** option
 (starting at $0) if you'd like to leave a small tip — but no obligation.
 
-👉 **[Free download on Gumroad](https://pokhts.gumroad.com)**
+👉 **[Free download on Gumroad](https://philyeh.gumroad.com)**
 (includes a setup guide and sample CSV)
 
 ---
@@ -204,7 +204,7 @@ dashboard was designed.
 **Phil Yeh** — Senior Automation Engineer based in Taiwan. I build Python
 tools for industrial protocol work.
 
-- 🛒 **Store:** [pokhts.gumroad.com](https://pokhts.gumroad.com)
+- 🛒 **Store:** [philyeh.gumroad.com](https://philyeh.gumroad.com)
 - ✍️ **Blog:** [dev.to/philyeh](https://dev.to/philyeh)
 
 ---
@@ -217,7 +217,7 @@ attached.
 If this tool saves you time, the only "thank you" I ask:
 
 - ⭐ **A star on this repo** if you liked it
-- 💚 **Check out the [paid toolkit](https://pokhts.gumroad.com)** if you
+- 💚 **Check out the [paid toolkit](https://philyeh.gumroad.com)** if you
   need to log data from PLCs / sensors / IoT brokers / vehicle CAN buses
 
 ---
